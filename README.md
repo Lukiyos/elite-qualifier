@@ -1,6 +1,6 @@
 # Title
 
-Simple (or clever and funny?) description
+Elite Qualifier Program
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ This is why this application exists.
 
 ## Install
 
-These are the steps to setup your local environment to run this application.
+Simply run python
 
 ## Usage
 
