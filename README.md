@@ -1,6 +1,6 @@
 # Title
 
-Just a simple description
+.
 
 ## Table of Contents
 
